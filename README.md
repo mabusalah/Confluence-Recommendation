@@ -20,6 +20,6 @@ Kindly note that this is a Generic basic skeleton, you might enhance this code, 
 	1- If you have a large users base, you might reduce the likes labels relevancy and increase the authorship of articles/comments relevancy.
 	2- You might also consider to include the user's views of articles, which I did not consider because in our case this will not add to the Recommendation system
 
-The Scenario considers hot start. For the cold start part you may sent highly ranked articles to those who were not addressed based on Interest.
+The Scenario considers hot start. For the cold start part you may send highly ranked articles from the list to those who were not addressed based on Interest.
 This project uses Python, Pandas, Numpy and smtplib and was developed for Atlassian Confluence wiki.
 
