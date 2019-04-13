@@ -1,7 +1,7 @@
 # Confluence Recommendation
 Atlassian Confluence Updates Email Recommendation Based on Interests
 
-This email recommendation system is designed to send relevant emails to members based on their Interactions with the system. I developed this peace of work because the current system lacks such feature.
+This email recommendation system is designed to send relevant emails to members based on their Interactions with the system. I developed this piece of work because the current system lacks such feature.
 
 How Confluence Updates Email recommendation system sends relevant updates:
 
